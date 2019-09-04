@@ -15,8 +15,8 @@
 
 8. any idea is ok, we need to see
 
-เทคโนโลยีที่ใช้
-Project maven Project
-Language Java
-Spring Boot 2.1.7
+- เทคโนโลยีที่ใช้
+- Project maven Project
+- Language Java 
+- Spring Boot 2.1.7
 
