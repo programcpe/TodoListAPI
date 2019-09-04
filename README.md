@@ -17,6 +17,6 @@
 
 - เทคโนโลยีที่ใช้
 - Project maven Project
-- Language Java 
+- Language Java version 8
 - Spring Boot 2.1.7
 
